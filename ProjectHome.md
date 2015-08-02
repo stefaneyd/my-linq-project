@@ -1,0 +1,1 @@
+LINQ exercises I made when going trough a video tutorial.
